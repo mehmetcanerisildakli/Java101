@@ -9,7 +9,7 @@ git clone https://github.com/mehmetcanerisildakli/Java101.git
 After clone the project  you can  open on an IDE
 for linux
 ```linux
-cd java101
+cd Java101
 code .
 ```
 
